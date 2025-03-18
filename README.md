@@ -25,11 +25,11 @@ OpenCV를 사용하여 웹캠 영상을 **실시간으로 표시하고 녹화**�
 | `R` | 영상 90도 회전 (0 → 90 → 180 → 270 → 0) |
 | `S` | 현재 화면 스크린샷 저장 |
 | `ESC` | 프로그램 종료 |
+
+---
 screenshots/screenshot_20250318_205534
 screenshots/screenshot_20250318_205535
 screenshots/screenshot_20250318_205537
----
-
 ## **🛠 설치 방법**
 1. Python 패키지 설치:
    ```bash
