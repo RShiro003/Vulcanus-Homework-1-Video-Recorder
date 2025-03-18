@@ -3,7 +3,7 @@
 OpenCV를 사용하여 웹캠 영상을 **실시간으로 표시하고 녹화**할 수 있는 프로그램입니다.  
 또한 **영상 회전 및 스크린샷 저장 기능**이 포함되어 있습니다.
 
-![녹화 화면](images/recording_preview.png)
+![녹화 화면](recordings/recording_20250318_205523.avi)
 
 ---
 
